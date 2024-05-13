@@ -1,0 +1,8 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chugunova24/tech-blog.git",
+  "author": "Anton Indyukov <indyukovanton@gmail.com>",
+  "license": "MIT"
+}
